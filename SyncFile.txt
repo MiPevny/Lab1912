@@ -1,4 +1,8 @@
-function MAIN
+function NEW_B
 {
+<<<<<<< HEAD
 ...
+=======
+..
+>>>>>>> new_b
 }
